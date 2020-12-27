@@ -42,7 +42,7 @@ function createTask(title, task_completed) {
     task.append(task_name);
 
     // adding the buttons check, edit and delete
-    task.insertAdjacentHTML('beforeend', '<div id="button_wrapper"><img src="Images/check.png" alt="check" title="check the task"><img src="Images/edit.png" alt="edit" title="edit the task"> <img src="Images/delete.png" alt="delete" title="delete the task"></div>');
+    task.insertAdjacentHTML('beforeend', '<div id="button_wrapper"><img src="assets/images/check.png" alt="check" title="check the task"><img src="assets/images/edit.png" alt="edit" title="edit the task"> <img src="assets/images/delete.png" alt="delete" title="delete the task"></div>');
 
     task_list.append(task);
 

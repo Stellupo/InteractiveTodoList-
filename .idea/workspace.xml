@@ -1,0 +1,672 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="161bc716-5791-46d2-a328-378296f88fb4" name="Default Changelist" comment="JavaScript Project : stage 14 - Cleaning folders organization" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="ProjectId" id="1hBAJGgOp8JDEsOkXYWy1j8eRIS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="HTML" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="kite.configurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/ ClosingWindow" />
+      <recent name="$PROJECT_DIR$/FootBall" />
+      <recent name="$PROJECT_DIR$/ShowNotificationBlinking" />
+      <recent name="$PROJECT_DIR$/WebCalendarGenerator" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/InteractiveTodoList/Images" />
+      <recent name="$PROJECT_DIR$/InteractiveTodoList/WebFont" />
+      <recent name="$PROJECT_DIR$/ShowNotesinText" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="DivToTextarea" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="DivToTextarea" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ccruntests" factoryName="Run Study Tests">
+      <module name="DivToTextarea" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <option name="studyTest" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docs" factoryName="Docutils task">
+      <module name="DivToTextarea" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docs" factoryName="Sphinx task">
+      <module name="DivToTextarea" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="DivToTextarea" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="DivToTextarea" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="161bc716-5791-46d2-a328-378296f88fb4" name="Default Changelist" comment="" />
+      <created>1599474037298</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599474037298</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Exercices on Element size &amp; position">
+      <created>1603903425229</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1603903425229</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Exercices on Coordinates">
+      <created>1604065197229</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1604065197229</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Exercices on Coordinates">
+      <created>1604077166639</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1604077166639</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Exercices on Events + Coordinates">
+      <created>1604410547555</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1604410547555</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Exercices on Events">
+      <created>1604429060505</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1604429060505</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Exercices on Events">
+      <created>1604487551641</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1604487551641</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Exercices on Events &amp; Coordinates">
+      <created>1604489320659</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1604489320661</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Exercices on Events &amp; Coordinates">
+      <created>1604489521582</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1604489521582</updated>
+    </task>
+    <task id="LOCAL-00052" summary="HTML/CSS Project : Blog (removing fromm old folder)">
+      <created>1605644041207</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1605644041207</updated>
+    </task>
+    <task id="LOCAL-00053" summary="HTML/CSS Project : Blog (images,css style &amp; footer implemented)">
+      <created>1605705647655</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1605705647655</updated>
+    </task>
+    <task id="LOCAL-00054" summary="HTML/CSS Project : Blog (code correction)">
+      <created>1605711382979</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1605711382979</updated>
+    </task>
+    <task id="LOCAL-00055" summary="HTML/CSS Project : Blog (code correction)">
+      <created>1605714130266</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1605714130266</updated>
+    </task>
+    <task id="LOCAL-00056" summary="Exercices on Events Propagation">
+      <created>1606242266045</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1606242266046</updated>
+    </task>
+    <task id="LOCAL-00057" summary="Exercices on Event Delegation">
+      <created>1606311471918</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1606311471919</updated>
+    </task>
+    <task id="LOCAL-00058" summary="Exercices on Event Delegation">
+      <created>1606315753978</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1606315753978</updated>
+    </task>
+    <task id="LOCAL-00059" summary="Exercices on Event Delegation">
+      <created>1606316121901</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1606316121901</updated>
+    </task>
+    <task id="LOCAL-00060" summary="MOve directories">
+      <created>1606316800739</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1606316800739</updated>
+    </task>
+    <task id="LOCAL-00061" summary="Exercices on Promises &amp; Json">
+      <created>1606317525808</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1606317525808</updated>
+    </task>
+    <task id="LOCAL-00062" summary="Exercices on setInterval/setTimeut">
+      <created>1606317606756</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1606317606756</updated>
+    </task>
+    <task id="LOCAL-00063" summary="Update .idea file">
+      <created>1606317667458</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1606317667458</updated>
+    </task>
+    <task id="LOCAL-00064" summary="Exercices on Coordinates">
+      <created>1606332955017</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1606332955017</updated>
+    </task>
+    <task id="LOCAL-00065" summary="Exercices on Event Delegation">
+      <created>1606399357548</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1606399357548</updated>
+    </task>
+    <task id="LOCAL-00066" summary="Exercises on Browser default Actions">
+      <created>1606420439915</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1606420439915</updated>
+    </task>
+    <task id="LOCAL-00067" summary="Exercises on Browser default Actions">
+      <created>1606477459502</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1606477459502</updated>
+    </task>
+    <task id="LOCAL-00068" summary="Exercises on event &amp; method submit">
+      <created>1607388090981</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1607388090982</updated>
+    </task>
+    <task id="LOCAL-00069" summary="Exercises on Events focus/blur">
+      <created>1607388225743</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1607388225743</updated>
+    </task>
+    <task id="LOCAL-00070" summary="Exercises on localStorage/sessionStorage">
+      <created>1607518939502</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1607518939503</updated>
+    </task>
+    <task id="LOCAL-00071" summary="HTML/CSS Project : Blog (removing fromm old folder)">
+      <created>1607518980368</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1607518980368</updated>
+    </task>
+    <task id="LOCAL-00072" summary="Exercises on Events focus/blur">
+      <created>1607518996800</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1607518996800</updated>
+    </task>
+    <task id="LOCAL-00073" summary="Exercises on event &amp; method submit">
+      <created>1607519013930</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1607519013931</updated>
+    </task>
+    <task id="LOCAL-00074" summary="JavaScript Project : stage 1 - general page structure, add to do list and clear button">
+      <created>1608205162393</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1608205162394</updated>
+    </task>
+    <task id="LOCAL-00075" summary="HTML/CSS Project : Blog (removing from old folder)">
+      <created>1608205197111</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1608205197111</updated>
+    </task>
+    <task id="LOCAL-00076" summary="JavaScript Project : stage 2 - buttons check, edit &amp; delete, design improvements">
+      <created>1608218848854</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1608218848854</updated>
+    </task>
+    <task id="LOCAL-00077" summary="JavaScript Project : stage 2 - button check open a rewarding gif (modal)">
+      <created>1608230015808</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1608230015808</updated>
+    </task>
+    <task id="LOCAL-00078" summary="JavaScript Project : stage 3 - button edit works">
+      <created>1608238730964</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1608238730965</updated>
+    </task>
+    <task id="LOCAL-00079" summary="JavaScript Project : stage 4 - add keydown Enter events handler">
+      <created>1608293720299</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1608293720299</updated>
+    </task>
+    <task id="LOCAL-00080" summary="JavaScript Project : stage 5 - input bar local storage">
+      <created>1608312395718</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1608312395719</updated>
+    </task>
+    <task id="LOCAL-00081" summary="JavaScript Project : stage 6 - task_list update local storage">
+      <created>1608333278510</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1608333278510</updated>
+    </task>
+    <task id="LOCAL-00082" summary="JavaScript Project : stage 7 - improvement bar &amp; integration of clear button inside the task_list update function">
+      <created>1608470061303</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1608470061303</updated>
+    </task>
+    <task id="LOCAL-00083" summary="JavaScript Project : stage 8 - solve localStorage bug with tasks + static completion progress bar">
+      <created>1608486282573</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1608486282574</updated>
+    </task>
+    <task id="LOCAL-00084" summary="JavaScript Project : stage 9 - dynamic completion progress bar">
+      <created>1608494954621</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1608494954621</updated>
+    </task>
+    <task id="LOCAL-00085" summary="JavaScript Project : stage 10 - dynamic completion progress bar bugs solved">
+      <created>1608511777507</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1608511777507</updated>
+    </task>
+    <task id="LOCAL-00086" summary="JavaScript Project : stage 11 - code cleaning">
+      <created>1608549416468</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1608549416468</updated>
+    </task>
+    <task id="LOCAL-00087" summary="JavaScript Project : stage 12 - code cleaning &amp; global/local variables bug solved">
+      <created>1608981288014</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1608981288015</updated>
+    </task>
+    <task id="LOCAL-00088" summary="Updates">
+      <created>1608983698010</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1608983698011</updated>
+    </task>
+    <task id="LOCAL-00089" summary="JavaScript Project : stage 12 - code cleaning &amp; global/local variables">
+      <created>1608990074893</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1608990074893</updated>
+    </task>
+    <task id="LOCAL-00090" summary=" Move directories">
+      <created>1608990270022</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1608990270022</updated>
+    </task>
+    <task id="LOCAL-00091" summary="JavaScript Project : stage 13 - Removing Project">
+      <created>1609103813433</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1609103813433</updated>
+    </task>
+    <task id="LOCAL-00092" summary="JavaScript Project : stage 14 - Cleaning folders organization">
+      <created>1609110992693</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1609110992694</updated>
+    </task>
+    <option name="localTasksCounter" value="93" />
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Exercices on Event Delegation" />
+    <MESSAGE value="Exercises on Browser default Actions" />
+    <MESSAGE value="Exercises on localStorage/sessionStorage" />
+    <MESSAGE value="HTML/CSS Project : Blog (removing fromm old folder)" />
+    <MESSAGE value="Exercises on Events focus/blur" />
+    <MESSAGE value="Exercises on event &amp; method submit" />
+    <MESSAGE value="JavaScript Project : stage 1 - general page structure, add to do list and clear button" />
+    <MESSAGE value="HTML/CSS Project : Blog (removing from old folder)" />
+    <MESSAGE value="JavaScript Project : stage 2 - buttons check, edit &amp; delete, design improvements" />
+    <MESSAGE value="JavaScript Project : stage 2 - button check open a rewarding gif (modal)" />
+    <MESSAGE value="JavaScript Project : stage 3 - button edit works" />
+    <MESSAGE value="JavaScript Project : stage 4 - add keydown Enter events handler" />
+    <MESSAGE value="JavaScript Project : stage 5 - input bar local storage" />
+    <MESSAGE value="JavaScript Project : stage 6 - task_list update local storage" />
+    <MESSAGE value="JavaScript Project : stage 7 - improvement bar &amp; integration of clear button inside the task_list update function" />
+    <MESSAGE value="JavaScript Project : stage 8 - solve localStorage bug with tasks + static completion progress bar" />
+    <MESSAGE value="JavaScript Project : stage 9 - dynamic completion progress bar" />
+    <MESSAGE value="JavaScript Project : stage 10 - dynamic completion progress bar bugs solved" />
+    <MESSAGE value="JavaScript Project : stage 11 - code cleaning" />
+    <MESSAGE value="JavaScript Project : stage 12 - code cleaning &amp; global/local variables bug solved" />
+    <MESSAGE value="Updates" />
+    <MESSAGE value="JavaScript Project : stage 12 - code cleaning &amp; global/local variables" />
+    <MESSAGE value=" Move directories" />
+    <MESSAGE value="JavaScript Project : stage 13 - Removing Project" />
+    <MESSAGE value="JavaScript Project : stage 14 - Cleaning folders organization" />
+    <option name="LAST_COMMIT_MESSAGE" value="JavaScript Project : stage 14 - Cleaning folders organization" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="300" y="152" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608307366066">
+      <screen x="0" y="25" width="1680" height="940" />
+    </state>
+    <state x="300" y="151" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.946@0.23.1680.946" timestamp="1603369570770" />
+    <state x="300" y="152" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1680.940@0.25.1680.940" timestamp="1608307366066" />
+    <state x="496" y="290" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1609109414286">
+      <screen x="0" y="25" width="1680" height="942" />
+    </state>
+    <state x="496" y="289" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.946@0.23.1680.946" timestamp="1601985101568" />
+    <state x="496" y="290" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1680.940@0.25.1680.940" timestamp="1608924347793" />
+    <state x="496" y="290" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1680.942@0.25.1680.942" timestamp="1609109414286" />
+    <state x="496" y="291" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1680.945@0.25.1680.945" timestamp="1607712675965" />
+    <state x="525" y="226" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1608142259217">
+      <screen x="0" y="25" width="1680" height="940" />
+    </state>
+    <state x="525" y="226" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.25.1680.940@0.25.1680.940" timestamp="1608142259217" />
+    <state x="100" y="125" width="1480" height="740" key="DiffContextDialog" timestamp="1609098873612">
+      <screen x="0" y="25" width="1680" height="945" />
+    </state>
+    <state x="100" y="125" width="1480" height="740" key="DiffContextDialog/0.25.1680.945@0.25.1680.945" timestamp="1609098873612" />
+    <state x="574" y="203" key="FileChooserDialogImpl" timestamp="1606241665572">
+      <screen x="0" y="25" width="1680" height="940" />
+    </state>
+    <state x="574" y="203" key="FileChooserDialogImpl/0.25.1680.940@0.25.1680.940" timestamp="1606241665572" />
+    <state x="692" y="372" key="Github.ShareDialog" timestamp="1608990361199">
+      <screen x="0" y="25" width="1680" height="940" />
+    </state>
+    <state x="692" y="372" key="Github.ShareDialog/0.25.1680.940@0.25.1680.940" timestamp="1608990361199" />
+    <state x="555" y="134" key="RollbackChangesDialog" timestamp="1606317405720">
+      <screen x="0" y="25" width="1680" height="945" />
+    </state>
+    <state x="555" y="134" key="RollbackChangesDialog/0.25.1680.945@0.25.1680.945" timestamp="1606317405720" />
+    <state x="239" y="49" key="SettingsEditor" timestamp="1606241936136">
+      <screen x="0" y="25" width="1680" height="940" />
+    </state>
+    <state x="239" y="47" key="SettingsEditor/0.23.1680.946@0.23.1680.946" timestamp="1603445157411" />
+    <state x="239" y="49" key="SettingsEditor/0.25.1680.940@0.25.1680.940" timestamp="1606241936136" />
+    <state width="625" height="500" key="SwitcherDM" timestamp="1608481803083">
+      <screen x="0" y="25" width="1680" height="940" />
+    </state>
+    <state width="625" height="500" key="SwitcherDM/0.25.1680.940@0.25.1680.940" timestamp="1608481803083" />
+    <state width="625" height="500" key="SwitcherDM/0.25.1680.942@0.25.1680.942" timestamp="1607701845733" />
+    <state x="340" y="159" key="Vcs.Push.Dialog.v2" timestamp="1609110994916">
+      <screen x="0" y="25" width="1680" height="942" />
+    </state>
+    <state x="340" y="158" key="Vcs.Push.Dialog.v2/0.23.1680.946@0.23.1680.946" timestamp="1604489523377" />
+    <state x="340" y="158" key="Vcs.Push.Dialog.v2/0.23.1680.947@0.23.1680.947" timestamp="1604077167667" />
+    <state x="340" y="159" key="Vcs.Push.Dialog.v2/0.25.1680.940@0.25.1680.940" timestamp="1608990287881" />
+    <state x="340" y="159" key="Vcs.Push.Dialog.v2/0.25.1680.942@0.25.1680.942" timestamp="1609110994916" />
+    <state x="340" y="159" key="Vcs.Push.Dialog.v2/0.25.1680.945@0.25.1680.945" timestamp="1606317670891" />
+    <state x="340" y="160" key="Vcs.Push.Dialog.v2/0.25.1680.947@0.25.1680.947" timestamp="1609104087875" />
+    <state x="100" y="125" width="1480" height="737" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1609100075615">
+      <screen x="0" y="25" width="1680" height="947" />
+    </state>
+    <state x="100" y="125" width="1480" height="737" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.25.1680.945@0.25.1680.945" timestamp="1609099951651" />
+    <state x="100" y="125" width="1480" height="737" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.25.1680.947@0.25.1680.947" timestamp="1609100075615" />
+    <state x="619" y="396" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607698744592">
+      <screen x="0" y="25" width="1680" height="942" />
+    </state>
+    <state x="619" y="396" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1680.942@0.25.1680.942" timestamp="1607698744592" />
+    <state x="26" y="25" width="1654" height="914" key="dock-window-1" timestamp="1608210452967">
+      <screen x="0" y="25" width="1680" height="940" />
+    </state>
+    <state x="26" y="25" width="1654" height="914" key="dock-window-1/0.25.1680.940@0.25.1680.940" timestamp="1608210452967" />
+    <state x="617" y="376" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1609110962325">
+      <screen x="0" y="25" width="1680" height="942" />
+    </state>
+    <state x="617" y="376" key="git4idea.remote.GitConfigureRemotesDialog/0.25.1680.942@0.25.1680.942" timestamp="1609110962325" />
+    <state x="617" y="377" key="git4idea.remote.GitConfigureRemotesDialog/0.25.1680.945@0.25.1680.945" timestamp="1606316114023" />
+    <state x="617" y="378" key="git4idea.remote.GitConfigureRemotesDialog/0.25.1680.947@0.25.1680.947" timestamp="1609103609595" />
+    <state x="421" y="25" width="838" height="1028" key="search.everywhere.popup" timestamp="1608144005112">
+      <screen x="0" y="25" width="1680" height="942" />
+    </state>
+    <state x="421" y="23" width="838" height="1032" key="search.everywhere.popup/0.23.1680.947@0.23.1680.947" timestamp="1603989871837" />
+    <state x="421" y="25" width="838" height="1025" key="search.everywhere.popup/0.25.1680.940@0.25.1680.940" timestamp="1606751707519" />
+    <state x="421" y="25" width="838" height="1028" key="search.everywhere.popup/0.25.1680.942@0.25.1680.942" timestamp="1608144005112" />
+  </component>
+</project>

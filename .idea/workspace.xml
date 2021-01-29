@@ -48,9 +48,12 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="HTML" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="kite.configurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -199,13 +202,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599474037298</updated>
-    </task>
-    <task id="LOCAL-00044" summary="Exercices on Element size &amp; position">
-      <created>1603903425229</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1603903425229</updated>
+      <workItem from="1611921919541" duration="127000" />
     </task>
     <task id="LOCAL-00045" summary="Exercices on Coordinates">
       <created>1604065197229</created>
@@ -543,8 +540,18 @@
       <option name="project" value="LOCAL" />
       <updated>1609110992694</updated>
     </task>
-    <option name="localTasksCounter" value="93" />
+    <task id="LOCAL-00093" summary="JavaScript Project : stage 15 - Browser tab icon">
+      <created>1611921990841</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1611921990842</updated>
+    </task>
+    <option name="localTasksCounter" value="94" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
@@ -564,7 +571,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Exercices on Event Delegation" />
     <MESSAGE value="Exercises on Browser default Actions" />
     <MESSAGE value="Exercises on localStorage/sessionStorage" />
     <MESSAGE value="HTML/CSS Project : Blog (removing fromm old folder)" />
@@ -589,84 +595,7 @@
     <MESSAGE value=" Move directories" />
     <MESSAGE value="JavaScript Project : stage 13 - Removing Project" />
     <MESSAGE value="JavaScript Project : stage 14 - Cleaning folders organization" />
-    <option name="LAST_COMMIT_MESSAGE" value="JavaScript Project : stage 14 - Cleaning folders organization" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="300" y="152" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608307366066">
-      <screen x="0" y="25" width="1680" height="940" />
-    </state>
-    <state x="300" y="151" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.946@0.23.1680.946" timestamp="1603369570770" />
-    <state x="300" y="152" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1680.940@0.25.1680.940" timestamp="1608307366066" />
-    <state x="496" y="290" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1609109414286">
-      <screen x="0" y="25" width="1680" height="942" />
-    </state>
-    <state x="496" y="289" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.946@0.23.1680.946" timestamp="1601985101568" />
-    <state x="496" y="290" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1680.940@0.25.1680.940" timestamp="1608924347793" />
-    <state x="496" y="290" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1680.942@0.25.1680.942" timestamp="1609109414286" />
-    <state x="496" y="291" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1680.945@0.25.1680.945" timestamp="1607712675965" />
-    <state x="525" y="226" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1608142259217">
-      <screen x="0" y="25" width="1680" height="940" />
-    </state>
-    <state x="525" y="226" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.25.1680.940@0.25.1680.940" timestamp="1608142259217" />
-    <state x="100" y="125" width="1480" height="740" key="DiffContextDialog" timestamp="1609098873612">
-      <screen x="0" y="25" width="1680" height="945" />
-    </state>
-    <state x="100" y="125" width="1480" height="740" key="DiffContextDialog/0.25.1680.945@0.25.1680.945" timestamp="1609098873612" />
-    <state x="574" y="203" key="FileChooserDialogImpl" timestamp="1606241665572">
-      <screen x="0" y="25" width="1680" height="940" />
-    </state>
-    <state x="574" y="203" key="FileChooserDialogImpl/0.25.1680.940@0.25.1680.940" timestamp="1606241665572" />
-    <state x="692" y="372" key="Github.ShareDialog" timestamp="1608990361199">
-      <screen x="0" y="25" width="1680" height="940" />
-    </state>
-    <state x="692" y="372" key="Github.ShareDialog/0.25.1680.940@0.25.1680.940" timestamp="1608990361199" />
-    <state x="555" y="134" key="RollbackChangesDialog" timestamp="1606317405720">
-      <screen x="0" y="25" width="1680" height="945" />
-    </state>
-    <state x="555" y="134" key="RollbackChangesDialog/0.25.1680.945@0.25.1680.945" timestamp="1606317405720" />
-    <state x="239" y="49" key="SettingsEditor" timestamp="1606241936136">
-      <screen x="0" y="25" width="1680" height="940" />
-    </state>
-    <state x="239" y="47" key="SettingsEditor/0.23.1680.946@0.23.1680.946" timestamp="1603445157411" />
-    <state x="239" y="49" key="SettingsEditor/0.25.1680.940@0.25.1680.940" timestamp="1606241936136" />
-    <state width="625" height="500" key="SwitcherDM" timestamp="1608481803083">
-      <screen x="0" y="25" width="1680" height="940" />
-    </state>
-    <state width="625" height="500" key="SwitcherDM/0.25.1680.940@0.25.1680.940" timestamp="1608481803083" />
-    <state width="625" height="500" key="SwitcherDM/0.25.1680.942@0.25.1680.942" timestamp="1607701845733" />
-    <state x="340" y="159" key="Vcs.Push.Dialog.v2" timestamp="1609110994916">
-      <screen x="0" y="25" width="1680" height="942" />
-    </state>
-    <state x="340" y="158" key="Vcs.Push.Dialog.v2/0.23.1680.946@0.23.1680.946" timestamp="1604489523377" />
-    <state x="340" y="158" key="Vcs.Push.Dialog.v2/0.23.1680.947@0.23.1680.947" timestamp="1604077167667" />
-    <state x="340" y="159" key="Vcs.Push.Dialog.v2/0.25.1680.940@0.25.1680.940" timestamp="1608990287881" />
-    <state x="340" y="159" key="Vcs.Push.Dialog.v2/0.25.1680.942@0.25.1680.942" timestamp="1609110994916" />
-    <state x="340" y="159" key="Vcs.Push.Dialog.v2/0.25.1680.945@0.25.1680.945" timestamp="1606317670891" />
-    <state x="340" y="160" key="Vcs.Push.Dialog.v2/0.25.1680.947@0.25.1680.947" timestamp="1609104087875" />
-    <state x="100" y="125" width="1480" height="737" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1609100075615">
-      <screen x="0" y="25" width="1680" height="947" />
-    </state>
-    <state x="100" y="125" width="1480" height="737" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.25.1680.945@0.25.1680.945" timestamp="1609099951651" />
-    <state x="100" y="125" width="1480" height="737" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.25.1680.947@0.25.1680.947" timestamp="1609100075615" />
-    <state x="619" y="396" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607698744592">
-      <screen x="0" y="25" width="1680" height="942" />
-    </state>
-    <state x="619" y="396" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1680.942@0.25.1680.942" timestamp="1607698744592" />
-    <state x="26" y="25" width="1654" height="914" key="dock-window-1" timestamp="1608210452967">
-      <screen x="0" y="25" width="1680" height="940" />
-    </state>
-    <state x="26" y="25" width="1654" height="914" key="dock-window-1/0.25.1680.940@0.25.1680.940" timestamp="1608210452967" />
-    <state x="617" y="376" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1609110962325">
-      <screen x="0" y="25" width="1680" height="942" />
-    </state>
-    <state x="617" y="376" key="git4idea.remote.GitConfigureRemotesDialog/0.25.1680.942@0.25.1680.942" timestamp="1609110962325" />
-    <state x="617" y="377" key="git4idea.remote.GitConfigureRemotesDialog/0.25.1680.945@0.25.1680.945" timestamp="1606316114023" />
-    <state x="617" y="378" key="git4idea.remote.GitConfigureRemotesDialog/0.25.1680.947@0.25.1680.947" timestamp="1609103609595" />
-    <state x="421" y="25" width="838" height="1028" key="search.everywhere.popup" timestamp="1608144005112">
-      <screen x="0" y="25" width="1680" height="942" />
-    </state>
-    <state x="421" y="23" width="838" height="1032" key="search.everywhere.popup/0.23.1680.947@0.23.1680.947" timestamp="1603989871837" />
-    <state x="421" y="25" width="838" height="1025" key="search.everywhere.popup/0.25.1680.940@0.25.1680.940" timestamp="1606751707519" />
-    <state x="421" y="25" width="838" height="1028" key="search.everywhere.popup/0.25.1680.942@0.25.1680.942" timestamp="1608144005112" />
+    <MESSAGE value="JavaScript Project : stage 15 - Browser tab icon" />
+    <option name="LAST_COMMIT_MESSAGE" value="JavaScript Project : stage 15 - Browser tab icon" />
   </component>
 </project>

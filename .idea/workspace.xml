@@ -18,7 +18,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="161bc716-5791-46d2-a328-378296f88fb4" name="Default Changelist" comment="JavaScript Project : stage 14 - Cleaning folders organization" />
+    <list default="true" id="161bc716-5791-46d2-a328-378296f88fb4" name="Default Changelist" comment="JavaScript Project : stage 14 - Cleaning folders organization">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -203,6 +206,8 @@
       <option name="presentableId" value="Default" />
       <updated>1599474037298</updated>
       <workItem from="1611921919541" duration="127000" />
+      <workItem from="1613996883156" duration="66000" />
+      <workItem from="1615304541311" duration="1117000" />
     </task>
     <task id="LOCAL-00045" summary="Exercices on Coordinates">
       <created>1604065197229</created>

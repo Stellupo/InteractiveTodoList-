@@ -226,6 +226,7 @@ function initTaskList(task_list,task_completed) {
             if (!button) return;
 
             // 3 possible buttons : check, edit, delete
+            console.log(button);
 
             // button check
             if (button == task_buttons.children[0]) {

@@ -19,7 +19,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="161bc716-5791-46d2-a328-378296f88fb4" name="Default Changelist" comment="JavaScript Project : stage 14 - Cleaning folders organization">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -208,14 +207,7 @@
       <workItem from="1611921919541" duration="127000" />
       <workItem from="1613996883156" duration="66000" />
       <workItem from="1615304541311" duration="1393000" />
-      <workItem from="1615376213036" duration="822000" />
-    </task>
-    <task id="LOCAL-00046" summary="Exercices on Coordinates">
-      <created>1604077166639</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1604077166639</updated>
+      <workItem from="1615376213036" duration="1211000" />
     </task>
     <task id="LOCAL-00047" summary="Exercices on Events + Coordinates">
       <created>1604410547555</created>
@@ -553,7 +545,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615305984581</updated>
     </task>
-    <option name="localTasksCounter" value="95" />
+    <task id="LOCAL-00095" summary="JavaScript Project : stage 14 - Cleaning folders organization">
+      <created>1615377516037</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1615377516038</updated>
+    </task>
+    <option name="localTasksCounter" value="96" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -599,9 +598,9 @@
     <MESSAGE value="JavaScript Project : stage 12 - code cleaning &amp; global/local variables" />
     <MESSAGE value=" Move directories" />
     <MESSAGE value="JavaScript Project : stage 13 - Removing Project" />
-    <MESSAGE value="JavaScript Project : stage 14 - Cleaning folders organization" />
     <MESSAGE value="JavaScript Project : stage 15 - Browser tab icon" />
     <MESSAGE value="Presentation of the project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Presentation of the project" />
+    <MESSAGE value="JavaScript Project : stage 14 - Cleaning folders organization" />
+    <option name="LAST_COMMIT_MESSAGE" value="JavaScript Project : stage 14 - Cleaning folders organization" />
   </component>
 </project>

@@ -19,8 +19,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="161bc716-5791-46d2-a328-378296f88fb4" name="Default Changelist" comment="JavaScript Project : stage 14 - Cleaning folders organization">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -207,14 +207,8 @@
       <updated>1599474037298</updated>
       <workItem from="1611921919541" duration="127000" />
       <workItem from="1613996883156" duration="66000" />
-      <workItem from="1615304541311" duration="1117000" />
-    </task>
-    <task id="LOCAL-00045" summary="Exercices on Coordinates">
-      <created>1604065197229</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1604065197229</updated>
+      <workItem from="1615304541311" duration="1393000" />
+      <workItem from="1615376213036" duration="822000" />
     </task>
     <task id="LOCAL-00046" summary="Exercices on Coordinates">
       <created>1604077166639</created>
@@ -552,7 +546,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611921990842</updated>
     </task>
-    <option name="localTasksCounter" value="94" />
+    <task id="LOCAL-00094" summary="Presentation of the project">
+      <created>1615305984581</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1615305984581</updated>
+    </task>
+    <option name="localTasksCounter" value="95" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -576,7 +577,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Exercises on Browser default Actions" />
     <MESSAGE value="Exercises on localStorage/sessionStorage" />
     <MESSAGE value="HTML/CSS Project : Blog (removing fromm old folder)" />
     <MESSAGE value="Exercises on Events focus/blur" />
@@ -601,6 +601,7 @@
     <MESSAGE value="JavaScript Project : stage 13 - Removing Project" />
     <MESSAGE value="JavaScript Project : stage 14 - Cleaning folders organization" />
     <MESSAGE value="JavaScript Project : stage 15 - Browser tab icon" />
-    <option name="LAST_COMMIT_MESSAGE" value="JavaScript Project : stage 15 - Browser tab icon" />
+    <MESSAGE value="Presentation of the project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Presentation of the project" />
   </component>
 </project>

@@ -26,7 +26,7 @@ function updateList(list) {
 
     // if list is empty, it disappears, the titles & the footer come back
     list.classList.add("close");
-    list_footer.classList ="close";
+    list_footer.classList = "close";
     section.querySelector('h2').classList.remove("close");
     section.querySelector('h3').classList.remove("close");
     footer.classList.remove('close');
@@ -74,7 +74,7 @@ function editTask (task, task_completed) {
 
         // update the progression bar in case we delete the task
         updateProgressionBar (task_completed);
-        // // update the list in case we delete the task
+        // update the list in case we delete the task
         updateList(task_list);
 
     });
@@ -229,6 +229,7 @@ function initTaskList(task_list,task_completed) {
 
             // button check
             if (button == task_buttons.children[0]) {
+                console.log("check button clicked");
                 task_buttons.parentElement.remove();
                 // everytime we click on complete, we change the value of the task_completed to 1
                 task_completed = 1;
@@ -238,6 +239,7 @@ function initTaskList(task_list,task_completed) {
 
             // button edit
             else if (button == task_buttons.children[1]) {
+                console.log("edit button clicked");
                 editTask(div.previousElementSibling, task_completed);
             }
 
